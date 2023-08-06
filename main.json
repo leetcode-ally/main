@@ -15,9 +15,29 @@
         "body":"Did you solve today's problem?⌚"
     },
         {
-        "time":"14:00:00",
+        "time":"03:00:00",
         "title":"🔁 Keep It Fresh!",
         "body":"Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
+    },
+        {
+        "time":"04:00:00",
+        "title":"🔥 Hot & Trending!",
+        "body":"Check out the most popular problems this week and see if you can crack them! Challenge yourself with the community's favorites! 💡"
+    },
+        {
+        "time":"05:00:00",
+        "title":"🔍 Explore new topics!",
+        "body":"We've added fresh problem sets related to your favorite algorithms. Dive in and expand your coding knowledge! 📚"
+    },
+        {
+        "time":"06:00:00",
+        "title":"🔄 Master the Basics!",
+        "body":"Revise the 'Medium' problem set. Build a strong foundation to tackle more complex challenges ahead! 🧱"
+    },
+        {
+        "time":"07:00:00",
+        "title":"🧬 Data Structures Refresher!",
+        "body":"Head back to the 'Trees & Graphs' problem set. Strengthen your grasp on these fundamental structures! 🌳"
     }
     ]
 }
