@@ -8,5 +8,16 @@
     "options":[],
     "app_url":"https://play.google.com/store/apps/details?id=com.leetos",
     "release_features":[],
-    "gmail":"leetosapp@gmail.com"
+    "gmail":"leetosapp@gmail.com",
+    "notification":[{
+        "time":"02:00:00",
+        "title":"Hey Leetcoder!👨‍💻",
+        "body":"Did you solve today's problem?⌚"
+    },
+        {
+        "time":"14:00:00",
+        "title":"🔁 Keep It Fresh!",
+        "body":"Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
+    }
+    ]
 }
