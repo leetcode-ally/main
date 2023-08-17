@@ -3,6 +3,12 @@
     "vercel_api":"https://leetcode-ally-be.vercel.app",
     "latest_version":15,
     "flag":0,
+    "feedback":{
+        "msg":"",
+        "url":"",
+        "options":[],
+        "url_text":""
+    },
     "msg":"",
     "download_url":"",
     "options":[],
