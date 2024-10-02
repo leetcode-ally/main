@@ -26,6 +26,7 @@
         "body":"Replenish your skills by revising the Revise Section. Consistent practice is the key to mastery! 💪"
     }
     ],
+    "adFrequency": 6,
     "adCountRange":{
         "start": 2,
         "end": 2
